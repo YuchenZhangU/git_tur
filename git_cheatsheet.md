@@ -20,4 +20,8 @@ git checkout <branchname> # example git checkout master
 
 # banching
 git branch <branchname> # attach a branchname to current commit
+
+# merging 
+git merge <banchname> # merge current branch with the <branchname>
+
 ```
